@@ -157,7 +157,7 @@ export default function LoginRegisterForm() {
           <input type="text" placeholder="Name" required />
           <input type="password" placeholder="Password" required />
           <select required>
-            <option value="">Select Type</option>
+            <option value="">hello world</option>
             <option value="public">Public</option>
             <option value="labour">Labour</option>
           </select>
